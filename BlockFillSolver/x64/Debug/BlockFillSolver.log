@@ -1,0 +1,10 @@
+﻿  display.c
+C:\Users\kddh3\source\repos\BlockFillSolver\BlockFillSolver\display.c(71,9): warning C4098: 'MainDisplay': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\kddh3\source\repos\BlockFillSolver\BlockFillSolver\display.c(54,10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kddh3\source\repos\BlockFillSolver\BlockFillSolver\display.c(56,10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kddh3\source\repos\BlockFillSolver\BlockFillSolver\display.c(278,35): warning C4098: 'DrawMode': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\kddh3\source\repos\BlockFillSolver\BlockFillSolver\display.c(495,8): warning C4101: 'events' :참조되지 않은 지역 변수입니다.
+C:\Users\kddh3\source\repos\BlockFillSolver\BlockFillSolver\display.c(498,21): warning C4101: 'mouseEvent' :참조되지 않은 지역 변수입니다.
+C:\Users\kddh3\source\repos\BlockFillSolver\BlockFillSolver\display.c(494,15): warning C4101: 'inputRecord' :참조되지 않은 지역 변수입니다.
+C:\Users\kddh3\source\repos\BlockFillSolver\BlockFillSolver\display.c(497,8): warning C4101: 'clickPos' :참조되지 않은 지역 변수입니다.
+  BlockFillSolver.vcxproj -> C:\Users\kddh3\source\repos\BlockFillSolver\x64\Debug\BlockFillSolver.exe
